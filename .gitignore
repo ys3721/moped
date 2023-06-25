@@ -1,0 +1,14 @@
+*.exe
+serverv2/logs/log.txt
+v3/server/logs/
+*/log.txt
+server/logs/*
+.idea/*
+*/workspace.xml
+server/bin/*
+*/watcherTasks.xml
+bin/
+build/
+server/test/
+out/
+.DS_Store
